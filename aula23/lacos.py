@@ -5,10 +5,14 @@ while i < 6:
 
 i = 0
 
+print()
+
 #For funciona com: valor inicial, final, e de quanto em quanto deve ser adicionado
 for i in range(10):
-    print("\n",i, end='')
+    print(" ",i, end='')
+
+print()
 
 j = 100
 for j in range (100, 0, -1): # Valor inicial: 100, valor final: 0, diminui a cada repetição: -1
-    print(j)
+    print(" ",j, end='')

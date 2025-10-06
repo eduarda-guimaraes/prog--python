@@ -1,0 +1,1 @@
+# Desafio 5: Crie um programa que simula um menu de opções (ex: cadastrar item, listar itens, sair), usando while e if.
